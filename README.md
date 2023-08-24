@@ -35,4 +35,4 @@ Then run:
 ### Run the following:
 - run `npm run cy:open`
 - select `automationExercise.feature`
-
+https://github.com/yplcy/QA_Exercise/blob/0c553c5afcd1ad4949a5d3835a916be031bb9890/run%20cy%20open%20-%20082423.png
