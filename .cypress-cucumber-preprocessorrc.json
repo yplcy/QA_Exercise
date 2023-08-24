@@ -1,0 +1,6 @@
+{
+  "stepDefinitions": [
+    "cypress/support/src/[filepart]/*.ts"
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "lib": ["es2018", "dom"],
+    "moduleResolution": "Node",
+    "types": [
+      "@badeball/cypress-cucumber-preprocessor",
+      "@shelex/cypress-allure-plugin/reporter",
+      "cypress",
+      "cypress-real-events",
+      "node",
+      "cypress-xpath"
+    ],
+    "baseUrl": "https://www.easyship.com/shipping-rate-calculator/usa-to-usa", // This must be specified if "paths" is.
+  },
+  "include": [
+    "**/*.ts"
+, "cypress/support/src/UI/step_definitions/menu-utils.ts" ]
+}
